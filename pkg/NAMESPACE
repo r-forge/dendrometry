@@ -1,0 +1,7 @@
+#exportPattern("^[[:alpha:]]+")
+
+
+useDynLib(Dendrometry)
+
+#don't export hardcopyLattice for now
+export(SplineVolume, splineSegVol, taperPlot)
