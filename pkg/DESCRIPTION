@@ -13,3 +13,5 @@ Description: This package provides the routines to import old STX compatible fil
 License: GPL (>= 3)
 LazyLoad: yes
 LazyData: yes
+OS_type: unix
+
