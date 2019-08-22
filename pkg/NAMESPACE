@@ -4,4 +4,4 @@
 useDynLib(Dendrometry)
 
 #don't export hardcopyLattice for now
-export(SplineVolume, splineSegVol, taperPlot)
+export(SplineVolume, splineSegVol, taperPlot, stx2sT, stx2sTs)
